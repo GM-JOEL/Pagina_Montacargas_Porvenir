@@ -1,0 +1,20 @@
+.b1 {
+    margin: 30px 30px;
+    font-family: Cambria,Times,serif;
+  color: #632423;
+  font-size: 30px;
+  letter-spacing: 0.4em;
+  text-transform: uppercase;
+}
+.cartas-modelos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 30px 30px;
+}
+.carta-individual {
+   margin: 20px 20px;
+}
+/* prueba
+*/
